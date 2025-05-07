@@ -1,4 +1,4 @@
-## eyup lads 👋😎
+## Hi! 👋
 
 <!--
 **AlexTheUnknowable/AlexTheUnknowable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Alex and I'm ready to use my sick coding skills to turn the internet into llamas
+I'm Alex
