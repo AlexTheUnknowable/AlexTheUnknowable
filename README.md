@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # Hi! I'm Alex :wave:
 
-## About Me 
-im gonna finish my readme later lol
-<br> <br>
+<!--## About Me 
+im gonna finish this later lol
+<br> <br>-->
 
 ## :toolbox: Skills 
 
@@ -32,6 +32,7 @@ im gonna finish my readme later lol
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JAVASCRIPT&logoColor=323330)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=VUE.JS&logoColor=white)
+![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 #### Database Programming:
 
